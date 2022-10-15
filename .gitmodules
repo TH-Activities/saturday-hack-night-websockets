@@ -31,3 +31,6 @@
 [submodule "Decoders | ZM1DSwKm882k6Cl8Pu8F"]
 	path = Decoders | ZM1DSwKm882k6Cl8Pu8F
 	url = https://github.com/rohithcd/HackNi8-Websocket.git
+[submodule "HackTox | Efsr0VjYmPl7UTvr80QW"]
+	path = HackTox | Efsr0VjYmPl7UTvr80QW
+	url = https://github.com/twilighty-abhi/dollie
