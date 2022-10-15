@@ -52,3 +52,6 @@
 [submodule "Kunjumakkal | mMmjQKrL3Qdg2Wewg3Oi"]
 	path = Kunjumakkal | mMmjQKrL3Qdg2Wewg3Oi
 	url = https://github.com/abhijithgkrishna/WebSocket
+[submodule "TheBOYS | 8nPvHBxSfqKHp8JmRjPA"]
+	path = TheBOYS | 8nPvHBxSfqKHp8JmRjPA
+	url = https://github.com/lroe/Hacknight-Websocket
