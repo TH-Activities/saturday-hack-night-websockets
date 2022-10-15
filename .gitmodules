@@ -25,3 +25,6 @@
 [submodule "Splinter | gQzbzdaAGrzvY8uv1PcU"]
 	path = Splinter | gQzbzdaAGrzvY8uv1PcU
 	url = https://github.com/arjun-ms/websocket-API
+[submodule "cipherGUYS | 1cxp3oPIOialCjpvPLhi"]
+	path = cipherGUYS | 1cxp3oPIOialCjpvPLhi
+	url = https://github.com/cipherGUYS/SHN-Websocket
