@@ -28,3 +28,6 @@
 [submodule "cipherGUYS | 1cxp3oPIOialCjpvPLhi"]
 	path = cipherGUYS | 1cxp3oPIOialCjpvPLhi
 	url = https://github.com/cipherGUYS/SHN-Websocket
+[submodule "Decoders | ZM1DSwKm882k6Cl8Pu8F"]
+	path = Decoders | ZM1DSwKm882k6Cl8Pu8F
+	url = https://github.com/rohithcd/HackNi8-Websocket.git
