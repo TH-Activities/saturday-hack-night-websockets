@@ -4,3 +4,6 @@
 [submodule "Splinter | 4Hw1QMXYcKgm77zkG4uf"]
 	path = Splinter | 4Hw1QMXYcKgm77zkG4uf
 	url = https://github.com/arjun-ms/websocket-API
+[submodule "TeamFLEG | qOwn6XEUDvp6McEEMeMu"]
+	path = TeamFLEG | qOwn6XEUDvp6McEEMeMu
+	url = https://github.com/TeamFLEG/websocket-sat-hacknight
