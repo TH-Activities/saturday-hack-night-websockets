@@ -46,3 +46,6 @@
 [submodule "Pheonix | vRQWvArIkkPryUOgyhrw"]
 	path = Pheonix | vRQWvArIkkPryUOgyhrw
 	url = https://github.com/ajmalmohad/draw.io
+[submodule "LemonTea | e64RCe3hPQaDz7yCUcQT"]
+	path = LemonTea | e64RCe3hPQaDz7yCUcQT
+	url = https://github.com/nasw1h/hacknight-websocket
